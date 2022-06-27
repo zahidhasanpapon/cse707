@@ -6,7 +6,7 @@ https://docs.google.com/presentation/d/1wnDBWqnz3iIH80dv_qPVq2CtutiOa0cuCbaCSM0T
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PNG: 
-
+https://github.com/zahidhasanpapon/cse707/blob/main/submission3/Concept%20Map.png
 Native/original format: 
 https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Batch%20Processing.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1HsfBcSQlQteFjDyGurJEsFuYz_E05bXU%26export%3Ddownload
 
